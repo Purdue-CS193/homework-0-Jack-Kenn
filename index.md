@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
-I edited this!
+# Jack Kenny's First CS193 Homework
+- I get to learn about the terminal.
+- It is only once a week.
+- The TA's are nice.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
